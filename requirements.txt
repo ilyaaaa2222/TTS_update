@@ -1,0 +1,8 @@
+pymupdf
+Pillow
+torch
+transformers
+accelerate
+ultralytics
+easyocr
+numpy
